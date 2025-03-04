@@ -1,2 +1,5 @@
-# financial-tools
-A collection of C++ projects related to tax, sales, and other financial calculations from my C++ class.
+# C++ Projects by Biruk Teklu
+This repository contains various C++ programs related to:
+- 📊 Tax and Sales Calculators
+- 💰 Financial & Pricing Tools
+- 🎯 Physics & Measurement Conversions
